@@ -7,7 +7,7 @@
     <title>Tabela</title>
 </head>
 <body>
-    <style>https://www.hostinger.com.br/tutoriais/linguagens-de-programacao-mais-usadas
+    <style>
         table{text-align: center;}
         caption{text-align: center;}
         h3{text-align: center;}
