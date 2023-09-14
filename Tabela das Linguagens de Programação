@@ -7,7 +7,7 @@
     <title>Tabela</title>
 </head>
 <body>
-    <style>
+    <style>https://www.hostinger.com.br/tutoriais/linguagens-de-programacao-mais-usadas
         table{text-align: center;}
         caption{text-align: center;}
         h3{text-align: center;}
@@ -19,6 +19,11 @@
     
     <center><table border = "4px" cellspacing="4px" cellpadding="4px">
         <caption>Linguagens de Programação mais usadas</caption>
+        <tr>
+        <th colspan="4px"> Veja os seguintes dados
+            
+        </th>
+        </tr>
         <tr>
             <td>Linguagem</td>
             <td>Quantidade de pessoas</td>
@@ -64,7 +69,11 @@
                         Clique aqui
         
     </h3>
-<center><button>Acesse aqui<a href="https://www.hostinger.com.br/tutoriais/linguagens-de-programacao-mais-usadas"></a></button></center>
+<center><button>Acesse aqui
+<a href="https://www.hostinger.com.br/tutoriais/linguagens-de-programacao-mais-usadas">
+
+
+</a></button></center>
 
 
 
