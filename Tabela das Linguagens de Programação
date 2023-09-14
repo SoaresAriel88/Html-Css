@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela</title>
+</head>
+<body>
+    <style>https://www.hostinger.com.br/tutoriais/linguagens-de-programacao-mais-usadas
+        table{text-align: center;}
+        caption{text-align: center;}
+        h3{text-align: center;}
+        button{border-bottom: 10px;}
+   </style>
+    
+    
+    
+    
+    <center><table border = "4px" cellspacing="4px" cellpadding="4px">
+        <caption>Linguagens de Programação mais usadas</caption>
+        <tr>
+            <td>Linguagem</td>
+            <td>Quantidade de pessoas</td>
+            <td>Porcentagem</td>
+      </tr>
+        <tr>
+            <td>Java</td>
+            <td>1 milhão</td>
+            <td>54%</td>
+            
+        </tr>
+        <tr>
+            <td>Python</td>
+            <td>3 milhões</td>
+            <td>65%</td>
+        </tr>
+        <tr>
+            <td>C++</td>
+            <td>500 mil</td>
+            <td>36%</td>
+        </tr>
+        <tr>
+            <td>Hub</td>
+            <td>1 milhão</td>
+            <td>25%</td>
+        </tr>
+        <tr>
+            <td>PHP</td>
+            <td>4 milhões</td>
+            <td>45%</td>
+        </tr>
+        <tr>
+            <td>Java Script</td>
+            <td>10 milhões</td>
+            <td>75%</td>
+        </tr>
+        
+        
+
+
+    </table></center>
+    <h3>Se você quiser conhecer mais linguagens <br>
+                        Clique aqui
+        
+    </h3>
+<center><button>Acesse aqui<a href="https://www.hostinger.com.br/tutoriais/linguagens-de-programacao-mais-usadas"></a></button></center>
+
+
+
+
+</body>
+</html>
