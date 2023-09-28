@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        legend{
+            text-align:left ;
+        }
+    </style>
+</head>
+<body>
+   <h1>Pesquisa de Devs</h1>
+   <legend>Formulário</legend>
+   <p>Complete as seguintes propostas da empresa: </p> 
+   <form>
+    <fieldset>
+        <label for="select"> Nome Completo -
+            <input type="select">
+        </label>
+    <label>
+        <p> CPF -
+            <input type="text">
+        </p>
+    </label>
+
+        <p> Endereço -
+        <input type="select">
+    </p>
+    
+    <p> Linguagem de programação -
+     <input type="select">
+    </p>
+    
+    <p> Áreas -
+        <input type="select">
+    </p>
+     </fieldset>
+    
+     <fieldset>
+        
+        <p> GitHub
+            <input type="select">
+        </p>
+
+     </fieldset>
+    
+    
+
+
+
+
+
+
+
+
+
+</form>
+
+</body>
+</html>
