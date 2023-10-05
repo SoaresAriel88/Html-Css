@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javanos</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="pngegg.png" type="image/x-icon">
+</head>
+<body>
+
+
+   <div class="img1"><img src="og-social-java-logo.gif" alt="Java"> </div>
+
+   <fieldset>
+
+    <div class="desc1"><p><li>Esta página tem o intuito de trazer informações
+        sobre a linguagem de programação  Java  </li>
+   
+    </p> </div> </fieldset>
+
+<h2>Saiba mais sobre a história do java</h2>
+
+<a href="sobre/sobre.html"><button>Clique aqui</button></a>
+
+<h3>Execução</h3>
+
+<a href="quartos/quartos.html"><button>Clique aqui</button></a>
+
+<h3>Codificação</h3>
+
+<a href="serviços/servicos.html"><button>Clique aqui</button></a>
+
+<h3>Cadastre-se</h3>
+
+<a href="cadastro/cadastro.html"><button>Clique aqui</button></a>
+
+<h3>Utilidade</h3>
+
+<a href="espaços/Atrações/espaço.html"><button>Clique aqui</button></a>
+
+
+
+
+
+
+
+
+</body>
+</html>
