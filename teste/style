@@ -1,0 +1,59 @@
+form{
+    text-align: center;
+    p{
+        text-align: left;
+        
+    }
+    input{
+        
+    }
+
+}
+.botao{
+    text-align: center;
+    width: 20%;
+    height: 20px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    
+}
+p{
+    
+    font-style: inherit;
+    font-size: 12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.container {
+    width: 100vw;
+    height: 100vh;
+    background: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    }
+.box {
+    width: 400px;
+    height: 400px;
+    background: #fff;
+    }
+body {
+    margin: 0px;
+    }
+.title{
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+}
+.cima{
+    text-align: center;
+    background-color: black;
+    height: 40px;
+    p{
+        font-size: 20px;
+        font-weight: bold;
+        color: white;
+        font-style: inherit;
+    }
+} 
