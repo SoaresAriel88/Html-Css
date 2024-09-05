@@ -1,2 +1,2 @@
-# Html-Css-JS
+# Java Script
 Olá gafanhotos, se liga nos códigos
